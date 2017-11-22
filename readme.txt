@@ -1,8 +1,10 @@
-Git is a changed version control system.
+ï»¿Git is a changed version control system.
 Git is free software.
 Git has a mutable index called stag
 Git tracks changes of files.
 Creating a new branch is quick & simple
 
-ÕâÊÇÎÒÔö¼ÓµÄĞÂ¹¦ÄÜ
-ÎÒÒ²Ôö¼ÓÁËÒ»¶Î»°
+
+è¿™æ˜¯æˆ‘å¢åŠ çš„æ–°åŠŸèƒ½
+
+
